@@ -61,7 +61,7 @@ namespace MyFirstProgram
                     Console.WriteLine("Hari paling mantap");
                     break;
                 case "Minggu":
-                    Console.WriteLine("HariTerjoss");
+                    Console.WriteLine("Hari Terjoss");
                     break;
                 default:
                     Console.WriteLine("Hari yang kamu masukkan tidak valid");

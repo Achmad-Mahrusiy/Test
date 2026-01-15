@@ -7,9 +7,9 @@ using System;
     {
       static void Main(string[] args)
       {
-        console.WriteLine("Hidup Jokowi");
-        console.Write("Untuk tulisan sebaris");
-        console.ReadKey();
+        Console.WriteLine("Hidup Jokowi");
+        Console.Write("Untuk tulisan sebaris");
+        Console.ReadKey();
       }
     } 
   }

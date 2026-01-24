@@ -30,7 +30,7 @@ int main()
 
         else
         {
-            std::cout << "Mantap, kamu lulus! # Coba lagi?: " << tries << '\n';
+            std::cout << "Ez kan?, Ez banget lah! # Coba lagi?: " << tries << '\n';
         }
     } while (guess != num);
 

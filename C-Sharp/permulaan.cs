@@ -13,3 +13,6 @@ using System;
       }
     } 
   }
+
+
+// ya beginilah hidup bro
